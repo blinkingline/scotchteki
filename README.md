@@ -6,13 +6,16 @@ Web based implementation of Ardent Reapers
 
 ### What is it?
 
-This is a fork of Keyteki, which is running on [thecrucible.online](https://thecrucible.online/) allowing people to play KeyForge online using only their browser. While Ardent Reapers is a differnt game, it shares some mechanics of KeyForge, and the Keyteki community is very kind and helpful, so this formed the base of scotchteki.
+This is a fork of Keyteki, which is running on [thecrucible.online](https://thecrucible.online/) allowing people to play KeyForge online using only their browser. While Ardent Reapers is a different game, it shares some mechanics of KeyForge, and the Keyteki community is very kind and helpful, so this formed the base of scotchteki.
 
 ### Does't this look a lot like Jinteki/Throneteki? The Android netrunner/AGOT online experience?
 
 Glad you noticed! Yes, jinteki was a huge inspiration for this project, as the interface is clean and user friendly, so I've tried to make this similar in a lot of ways
 
 Scotchteki is a fork of Keyteki which itself is a fork of the ringteki sourcecode.
+
+
+THE REMAINDER OF THIS SHOULD GET UPDATED LATER.
 
 ### Can I contribute?
 
