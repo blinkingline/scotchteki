@@ -1,4 +1,4 @@
-# Keyteki
+# Scotchteki
 
 Web based implementation of Ardent Reapers
 
